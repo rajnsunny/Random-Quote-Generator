@@ -3,4 +3,4 @@ A Website where you get random quotes and from where you can tweet directly from
 
 This uses a quote API (https://type.fit/api/quotes) , from where the Quotes are being generated and shown here.
 
-live Website link: 
+live Website link: https://rajnsunny.github.io/Random-Quote-Generator/
