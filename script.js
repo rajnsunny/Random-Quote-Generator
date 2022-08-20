@@ -51,7 +51,7 @@ function newQuotes(){
 
 async function getQuotes(){
     loading();
-    const apiUrl = 'http://api.quotable.io/random';
+    const apiUrl = 'https://api.quotable.io/random';
     try{
         const response = await fetch(apiUrl);
         apiQuotes = await response.json();
