@@ -37,7 +37,7 @@ function newQuotes(){
     }
     console.log(author);
     //if Quote is so long
-    if(quote.content.length > 90){
+    if(quote.length > 90){
         quoteText.classList.add('long-quote');
     }
     else{
